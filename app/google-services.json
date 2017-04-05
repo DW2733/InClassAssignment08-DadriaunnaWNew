@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "682671033304",
+    "firebase_url": "https://inclassassignment08-redodadriw.firebaseio.com",
+    "project_id": "inclassassignment08-redodadriw",
+    "storage_bucket": "inclassassignment08-redodadriw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682671033304:android:bee502535415275d",
+        "android_client_info": {
+          "package_name": "com.example.dadriaunna01.inclassassignment08_dadriaunnaw2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682671033304-j6sulrmtof6pkgqjueqj9f2dq2j2gmc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqF4_Q5YExhdklOqlmiruq6wnjZMI4NMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
